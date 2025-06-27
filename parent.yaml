@@ -8,9 +8,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<YOUR-GH-USER>/app-of-apps-repo.git
+    repoURL: https://github.com/venkathckr-repo/app-of-apps-repo.git
     targetRevision: HEAD
-    path: apps                 # LOOK HERE
+    path: applications                 # LOOK HERE
     directory:
       recurse: true
   destination:
